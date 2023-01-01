@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Aniket Thorat",
+    "title": "Software Developer",
+    "manager":"Ankit Mudgal",
+    "Email":"Aniket_Thorat@persistent.com",
+    "number":"+91-7798040534",
+    "img": "https://cdn.balkan.app/shared/5.jpg",
+    "Cubicle":"Office-IND, MH-IND, PUNE, Hinjawadi, Yajurveda D2 C12",
+    "Expertise":"Expertise in React Native and ML/DL"
+  }

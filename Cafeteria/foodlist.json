@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": " CHAPATI - MASALA, PLAIN RICE, DAL GUJRATI, ALU DRY FRY, MIX VEG RASSA, SALAD - SOYA CHILLY, BUTTERMILK, PICKLE, FRUITS",
+      "city":["Hyderabad","Bengaluru","All Cities","Pune"],
+      "Snacks":["KACCHI DABELI, LIME JUICE"],
+      "day":["Monday"]
+    },
+    {
+      "id": 2,
+      "name": " CHAPATI / BHAKRI (J), PLAIN RICE, VARAN, PITHLA, MATKI USAL, SALAD -ONION/MOOLI/LIME, CURD, PICKLE, SOUP [ LEMON CORIANDER ]",
+      "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"],
+      "Snacks":["SHEERA / CORN"],
+      "day":["Tuesday"]
+    },
+    {
+      "id" : 3,
+      "name": " CHAPATI, JEERA RICE, DAL TADKA, THONDLI SUKHA, PANEER MALVANI, SALAD - GREEN SALAD, BUTTERMILK, PICKLE, SWEET [ MOTICHUR LADOO ]",
+      "city":["Bhopal","Gurgaon","Lucknow","Nagpur","Noida","All Cities","Pune"],
+      "Snacks":["VEG BONDA SAMBHAR"],
+      "day":["Wednesday"]
+    },
+    {
+      "id": 4,
+      "name": " CHAPATI, PLAIN RICE, DAL METHI, GAWAR SUKHA, SEV BHAJI, SALAD - BOILED CORN CHAT, CURD, PICKLE, FRUITS",
+      "city":["Hyderabad","All Cities","Pune"],
+      "Snacks":["DHOKLA"],
+      "day":["Thursday"]
+    },
+    {
+      "id": 5,
+      "name": " CHAPATI, POTATO BIRYANI, DAL FRY, TAWA VEG, CHOLEY MASALA, SALAD - RAITHA, CHUTNEY, PICKLE, SOUP[ TOMATO SOUP]",
+      "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"],
+      "Snacks":["VEG PUFF, PANHA"],
+      "day":["Friday"]
+    }
+]

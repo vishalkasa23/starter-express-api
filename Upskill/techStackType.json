@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "techStackType":"All Trainings",
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Ftraining.png?alt=media&token=e7e5396f-3987-4ddb-a2f6-a7d0a8860618"
+    },
+    {
+        "id":"2",
+        "techStackType":"Technical",
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Ftech.png?alt=media&token=b84c0a7c-5cb4-4279-a81b-201fb4d0b129"
+    },
+    {
+        "id":"3",
+        "techStackType":"Communication",
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Fcomm.png?alt=media&token=7f7bfbc3-33e8-47cc-bfbc-b015cb8b6691"
+    },
+    {
+        "id":"4",
+        "techStackType":"Management",
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Fmgmt.png?alt=media&token=db82db36-c9a3-46a2-b4e4-5322068e37f1"
+    },
+    {
+        "id":"5",
+        "techStackType":"Soft Skill",
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Fsoftskill.png?alt=media&token=1bc020bf-2ae0-49e0-a9c2-f678d20cb6b8"
+    }
+]

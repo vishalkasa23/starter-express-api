@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Vishal Kasa",
+    "title": "Software Developer",
+    "manager":"Sneha Naik",
+    "Email":"vishal_kasa@persistent.com",
+    "number":"+91-8107180837",
+    "img": "https://cdn.balkan.app/shared/5.jpg",
+    "Cubicle":"Office-IND, MH-IND, PUNE, Hinjawadi, Yajurveda D2 C10",
+    "Expertise":"Expertise in React Native and ML/DL"
+  }

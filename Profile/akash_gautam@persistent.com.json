@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Akash Gautam",
+    "title": "Software Developer",
+    "manager":"Ankit Mudgal",
+    "Email":"akash_gautam@persistent.com",
+    "number":"+91-7009475186",
+    "img": "https://cdn.balkan.app/shared/5.jpg",
+    "Cubicle":"Office-IND, MH-IND, PUNE, Hinjawadi, Yajurveda D2 C12",
+    "Expertise":"Expertise in React native and Azure"
+  }

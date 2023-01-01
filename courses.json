@@ -1,0 +1,11 @@
+[
+    { 
+      "id": 1, 
+      "name": "Algorithms" },
+    { 
+      "id": 2, 
+      "name": "Software Engineering" },
+    { 
+      "id": 3, 
+      "name": "Human Computer Interaction" }
+]

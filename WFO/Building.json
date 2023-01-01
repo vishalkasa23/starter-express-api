@@ -1,0 +1,66 @@
+[
+    {
+        "building":"Bhageerath, Pune",
+        "Stage":"Level 1",
+        "color":"#990000"
+    },
+    {
+        "building":"Aryabhata-Pingala, Pune",
+        "Stage":"Level 2",
+        "color":"#f3a717"
+    },
+    {
+        "building":"Hinjawadi, Pune",
+        "Stage":"Level 3",
+        "color":"#d56906"
+    },
+    {
+        "building":"Panini, Pune",
+        "Stage":"Level 4",
+        "color":"#578300"
+    },
+    {
+        "building":"SEZ-Blueridge, Pune",
+        "Stage":"Level 3",
+        "color":"#d56906"
+    },
+    {
+        "building":"Charak Bhaskar, Goa",
+        "Stage":"Level 2",
+        "color":"#f3a717"
+    },
+    {
+        "building":"PRITECH Park, Bengaluru",
+        "Stage":"Level 3",
+        "color":"#d56906"
+    },
+    {
+        "building":"Serilingampally Mandal, Hyderabad",
+        "Stage":"Level 1",
+        "color":"#990000"
+    },
+    {
+        "building":"Capiot Software Private Limited Amrutha Ville, Hyderabad",
+        "Stage":"Level 3",
+        "color":"#d56906"
+    },
+    {
+        "building":"Gargi Maitreyi & IT Tower, Nagpur",
+        "Stage":"Level 1",
+        "color":"#990000"
+    },
+
+    {
+        "building":"IT Tower, Nagpur",
+        "Stage":"Level 4",
+        "color":"#578300"
+    },
+
+    {
+        "building":"Times Square, Mumbai",
+        "Stage":"Level 1",
+        "color":"#990000"
+    }
+
+
+]
